@@ -1,0 +1,9 @@
+{
+    "name": "Mark",
+    "age": 30,
+    "address": {
+        "city": "New York",
+        "state": "NY",
+        "country": "USA"
+    }
+}
